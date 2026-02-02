@@ -61,7 +61,7 @@ import "@testing-library/jest-dom";
 ✅ 7. Example Test
 📄 src/App.jsx
 function App() {
-  return <h1>Hello Jainesh</h1>;
+  return <h1>Hello Coder!!!</h1>;
 }
 
 export default App;
@@ -72,7 +72,7 @@ import App from "./App";
 
 test("renders heading", () => {
   render(<App />);
-  expect(screen.getByText("Hello Jainesh")).toBeInTheDocument();
+  expect(screen.getByText("Hello Coder!!!")).toBeInTheDocument();
 });
 ✅ 8. Run Tests
 npm test

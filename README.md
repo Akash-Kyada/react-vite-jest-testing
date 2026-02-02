@@ -91,6 +91,9 @@ my-app/
 ├── __mocks__/
 │   └── fileMock.js
 ├── src/
+│   ├── App.jsx
+│   └── App.test.jsx
+│   └── setupTests.js
 ├── babel.config.cjs
 ├── jest.config.cjs
 └── package.json

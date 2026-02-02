@@ -13,7 +13,7 @@ A ready-to-use React project created with **Vite** and configured with **Jest & 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Akash-Kyada/react-vite-jest.git
+git clone https://github.com/your-username/react-vite-jest.git
 cd react-vite-jest
 npm install
 ```
